@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neerav%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Quant%20in%20progress.%20Obsessive%20by%20nature.&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neerav%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Obsessive%20by%20nature.&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Quantitative+Finance+Explorer;Backend+Systems+Enthusiast;ML+%2F+AI+Tinkerer;Turning+curiosity+into+obsession+%F0%9F%94%A5" alt="Typing SVG" />
