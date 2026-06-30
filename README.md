@@ -59,10 +59,10 @@ class Neerav:
 </td>
 <td width="33%" valign="top">
 
-### 🍱 FoodBridge VIT
-> Centralised food redistribution system for VIT hostels — reducing waste by routing surplus food to those who need it.
+### 📈 Finzer
+> ML-powered market intelligence platform — FinBERT sentiment scoring, a custom LSTM, and real-time trading signals served through a FastAPI backend and live dashboard.
 
-`Full Stack` `MongoDB` `Node.js` `REST API`
+`Python` `PyTorch` `FastAPI` `PostgreSQL` `Next.js`
 
 </td>
 </tr>
